@@ -1,8 +1,9 @@
 # TaxiDriver
-a taxi booking app in java made along with 3 friends. (College coding assignment)
+## College Assignment:
 
+Made with a group of three friends.
 
-Please Populate the database file (data.db) first before using the application.
+>Note: Please Populate the database file (data.db) first before using the application.
 
 
 SQLite preferred.
